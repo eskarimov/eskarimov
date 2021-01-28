@@ -9,6 +9,7 @@ I am working on some side projects, learning new things and trying to stay on to
 📝 I regulary write articles on my blog.  
 💬 Ping me about Python, Go, Terraform, and cloud stuff.   
 
+📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Switching to Notion after many years of using Onenote](https://www.karimov.berlin/writing/2020-12-16-notion-vs-onenote/)
 - [Some lessons learned working with Spark/AWS Glue](https://www.karimov.berlin/writing/2020-11-23-lessons-learned-spark-glue/)
