@@ -9,6 +9,8 @@ I am working on some side projects, learning new things and trying to stay on to
 📝 I regulary write articles on my blog.  
 💬 Ping me about Python, Go, Terraform, and cloud stuff.   
 
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/evgenii-karimov)
 - [My personal blog/website](https://www.karimov.berlin)
