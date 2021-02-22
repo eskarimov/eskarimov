@@ -11,6 +11,8 @@ I am working on some side projects, learning new things and trying to stay on to
 
 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes about data catalog solutions](https://www.karimov.berlin/writing/2021-01-25-data-catalog/)
+- [Choosing open-source comment system](https://www.karimov.berlin/writing/2021-01-11-comments-system/)
 - [Switching to Notion after many years of using Onenote](https://www.karimov.berlin/writing/2020-12-16-notion-vs-onenote/)
 - [Some lessons learned working with Spark/AWS Glue](https://www.karimov.berlin/writing/2020-11-23-lessons-learned-spark-glue/)
 <!-- BLOG-POST-LIST:END -->
