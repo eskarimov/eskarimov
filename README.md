@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://www.karimov.berlin/" target="_blank">Evgenii Karimov</a>👋</h1>
 
-I'm currently a data engineer in Delivery Hero based in Berlin.  
+I'm currently a data engineer in Delivery Hero based in Berlin.
+Instruments I use everyday: AWS stack - Redshift, Glue, various RDS databases, Lambda; Spark, Python, SQL, Airflow, Looker, Tableau, BigQuery.
+Curious about modern approaches to design and architect datawarehouses.
 I am working on some side projects, learning new things and trying to stay on top of modern fast-pace changing technologies.
 
 ⚡️ A Few Quick Facts:  
