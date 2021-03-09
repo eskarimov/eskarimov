@@ -13,11 +13,11 @@ I am working on some side projects, learning new things and trying to stay on to
 
 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Connecting people](https://www.karimov.berlin/writing/2021-02-25-clubhouse/)
 - [About the modern data engineering stack](https://www.karimov.berlin/writing/2021-02-22-modern-data-eng-stack/)
 - [Notes about data catalog solutions](https://www.karimov.berlin/writing/2021-01-25-data-catalog/)
 - [Choosing open-source comment system](https://www.karimov.berlin/writing/2021-01-11-comments-system/)
 - [Switching to Notion after many years of using Onenote](https://www.karimov.berlin/writing/2020-12-16-notion-vs-onenote/)
+- [Some lessons learned working with Spark/AWS Glue](https://www.karimov.berlin/writing/2020-11-23-lessons-learned-spark-glue/)
 <!-- BLOG-POST-LIST:END -->
 
 How to reach me:
