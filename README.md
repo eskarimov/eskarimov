@@ -28,4 +28,4 @@ I am working on some side projects, learning new things and trying to stay on to
 
 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/evgenii-karimov)
-- [My personal blog/website](https://www.karimov.berlin)
+- [My personal blog](https://www.karimov.berlin)
