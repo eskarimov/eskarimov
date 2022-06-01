@@ -21,11 +21,11 @@ learning new things and trying to stay on top of modern fast-pace changing techn
 
 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Takeouts on new GCP products DataPlex and Analytics Hub](https://www.karimov.berlin/writing/2022-05-31-new-gcp-products/)
 - [Implementing slim CI for dbt with GitHub Actions](https://www.karimov.berlin/writing/2022-04-06-dbt-slim-ci/)
 - [Thoughts about the modern data engineering stack](https://www.karimov.berlin/writing/2022-04-05-thoughts-about-data-stack/)
 - [Reverse ETL - definition and use-cases](https://www.karimov.berlin/writing/2021-11-18-reverse-etl/)
 - [DWH approaches](https://www.karimov.berlin/writing/2021-04-30-dwh-structure-approaches/)
-- [Connecting people](https://www.karimov.berlin/writing/2021-02-25-clubhouse/)
 <!-- BLOG-POST-LIST:END -->
 
 How to reach me:
